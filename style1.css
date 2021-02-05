@@ -11,4 +11,9 @@
                background-color: rgb(0, 206, 209);
                padding: 50px;
                }
-        #cbanner { float: right;}
+        #cbanner { 
+                margin: 0 auto;
+                width: 800px;
+                height: 300px;
+                
+                }
