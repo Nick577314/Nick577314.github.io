@@ -43,11 +43,11 @@
                          }
            #Nicolas-pic {
                     display: block;
-                  max-width: 30%;
+                  max-width: 25%;
                      height: auto;
                       float: left;
                     padding: 5px;
-                     border: 3px ridge solid;
+                     border: 5px ridge solid;
                    
                         }
         div.box { text-align: center;
