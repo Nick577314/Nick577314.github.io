@@ -11,7 +11,7 @@
         #nav-table { 
                padding: 10px;
                width: 800px;
-               
+               height: 70px;
                }
       table, th, tr {
               border: rgb(47, 79, 79);
