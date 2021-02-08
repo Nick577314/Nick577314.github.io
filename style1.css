@@ -39,13 +39,14 @@
                      text-align: center;
                      margin: 0 auto;
                      width: 800px;
+                     padding: 10px;
                          }
            #Nicolas-pic {
                     display: block;
                       width: 15%;
                      height: auto;
                       float: left;
-                    padding: 50px;
+                    padding: 30px;
                      border: 3px ridge black;
                    
                         }
