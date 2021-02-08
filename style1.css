@@ -11,8 +11,8 @@
         #nav-table { 
                background: rgb(47, 79, 79);
                padding: 10px;
-               width: 800px;
-               height: 70px;
+               width: 100%;
+               text-align: center;
                }
 
     div.box { text-align: center;
