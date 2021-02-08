@@ -9,11 +9,13 @@
              }
          
         #nav-table { 
-               border: rgb(47, 79, 79);
                padding: 10px;
                width: 800px;
                
                }
+      table, th, tr {
+              border: rgb(47, 79, 79);
+                     }
     div.box { text-align: center;
                
                 
