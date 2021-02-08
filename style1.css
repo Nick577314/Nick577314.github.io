@@ -23,8 +23,11 @@
                 width: 100%;
                 text-align: center;
                 display: block;
-                
-           
+                      }
+            div.nav-table2 {
+                width: 100%;
+                text-align: center;
+                display: block;
                       }
              #about-p { color: rgb(248, 248, 255);
                       }
