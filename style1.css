@@ -41,8 +41,9 @@
                      width: 800px;
                          }
            #Nicolas-pic {
-                   max-width: 100%;
+                   max-width: 50%;
                       height: auto;
+                       float: right
                    
                         }
         div.box { text-align: center;
