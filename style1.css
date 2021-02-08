@@ -9,9 +9,8 @@
              }
          
         #nav-table { 
-               color: rgb(169, 169, 169);
-               padding: 10px;
-               width: 50%;
+               background: rgb(169, 169, 169);
+               width: 800px;
                text-align: center;
                }
 
