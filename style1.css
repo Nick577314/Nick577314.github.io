@@ -43,7 +43,7 @@
                          }
            #Nicolas-pic {
                     display: block;
-                      width: 15%;
+                  max-width: 20%;
                      height: auto;
                       float: left;
                     padding: 30px;
