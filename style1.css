@@ -54,6 +54,7 @@
                      height: auto;
                       float: right;
                    margin-left: 6px;
+                   border-radius: 8px;
                    
                         }
         div.banner { text-align: center;
