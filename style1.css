@@ -25,7 +25,7 @@
                 text-align: center;
                 display: block;
                 overflow: hidden;
-                border: 1px solid;
+                border: 2px ridge solid;
                        
                       }
             div.nav-table2 {
@@ -47,7 +47,7 @@
                      height: auto;
                       float: left;
                     padding: 5px;
-                     border: 3px ridge;
+                     border: 3px ridge solid;
                    
                         }
         div.box { text-align: center;
