@@ -21,12 +21,12 @@
          
             div.nav-table { 
                 background: rgb(119, 136, 153);
-                width: 100%;
+                width: 800px;
                 text-align: center;
                 display: block;
                 overflow: hidden;
                 margin: 0;
-                padding: 0;
+                
                        
                       }
             div.nav-table2 {
