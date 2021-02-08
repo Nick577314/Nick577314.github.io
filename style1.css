@@ -3,13 +3,14 @@
             color: rgb(0, 0, 0);
         }  
         
-        #2pages {
+        #page1 {
             background-color: rgb(112, 128, 144);
                text-align: center;
              }
 
        .about-bg {
                  background-image: url(https://nick577314.github.io/myBackground.jpg);
+                 
                 }
          
         div.nav-table { 
