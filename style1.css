@@ -46,8 +46,7 @@
                   max-width: 25%;
                      height: auto;
                       float: left;
-                    padding: 5px;
-                     border: 5px ridge solid;
+                   margin-right: 6px;
                    
                         }
         div.box { text-align: center;
