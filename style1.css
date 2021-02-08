@@ -13,8 +13,6 @@
 
        .about-bg {
                  background-image: url(https://nick577314.github.io/myBackground.jpg);
-                 background-position: center;
-                 background-repeat: no-repeat;
                  background-size: cover;
                 }
          
@@ -32,7 +30,9 @@
                       }
              #about-p { color: rgb(248, 248, 255);
                      text-algin: center;
+                     display: block;
                      width: 800px;
+                     align-items: center;
               
                      
                       }
