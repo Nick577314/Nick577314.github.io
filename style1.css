@@ -45,15 +45,15 @@
                     display: block;
                   max-width: 15%;
                      height: auto;
-                      float: left;
+                      float: right;
                    margin-right: 6px;
                    border-radius: 8px;
                         }
            #Nicolas-pic2 {
                     display: block;
-                  max-width: 25%;
+                  max-width: 50%;
                      height: auto;
-                      float: middle;
+                      ;
                    margin-left: 6px;
                    border-radius: 8px;
                    
