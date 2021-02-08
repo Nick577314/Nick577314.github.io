@@ -40,7 +40,10 @@
                      margin: 0 auto;
                      width: 800px;
                          }
-
+           #Nicolas-pic {
+                   width: 100px;
+                   height: 300px
+                        }
         div.box { text-align: center;
                 
                 }
