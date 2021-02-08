@@ -1,6 +1,7 @@
 
         h1 {
             color: rgb(248, 248, 255);
+            text-algin: center;
         }  
        body#page1 {
             background-color: rgb(112, 128, 144);
