@@ -11,12 +11,12 @@
         div.nav-table { 
                 background: rgb(119, 136, 153);
                 overflow: hidden;
-                width: 800px;
+                width: 100%;
                 text-align: center;
                 display: block;
                       }
 
         div.box { text-align: center;
-                width: 100%;
+                
            
                 }
