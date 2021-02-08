@@ -39,7 +39,7 @@
                      text-align: center;
                      margin: 0 auto;
                      width: 800px;
-                     padding: 10px;
+                     padding: 20px;
                          }
            #Nicolas-pic {
                     display: block;
@@ -50,10 +50,10 @@
                         }
            #Nicolas-pic2 {
                     display: block;
-                  max-width: 35%;
+                  max-width: 25%;
                      height: auto;
                       float: right;
-                   margin-right: 6px;
+                   margin-left: 6px;
                    
                         }
         div.banner { text-align: center;
