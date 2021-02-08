@@ -5,7 +5,7 @@
             
            
         }  
-       .page1 {
+       body#page1 {
             background-color: rgb(112, 128, 144);
                text-align: center;
              }
