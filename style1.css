@@ -8,13 +8,12 @@
                text-align: center;
              }
          
-        #nav-table { 
+        div.nav-table { 
                background: rgb(169, 169, 169);
                width: 800px;
                text-align: center;
-               }
+                      }
 
         div.box { text-align: center;
-               
-                
+           
                 }
