@@ -9,7 +9,7 @@
              }
 
        .home-bg {
-                 url(myBackground.jpg)
+                 background: url(myBackground.jpg)
                 }
          
         div.nav-table { 
