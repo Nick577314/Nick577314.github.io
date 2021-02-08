@@ -9,11 +9,9 @@
              }
          
         div.nav-table { 
-                display: table;
-                background-color: rgb(169, 169, 169);
+                background: rgb(169, 169, 169);
                 width: 100%;
                 text-align: center;
-                
                       }
 
         div.box { text-align: center;
